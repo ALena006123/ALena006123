@@ -3,15 +3,19 @@
 I'm learning frontend development and building interactive web demos or app.
 
 ## Projects
+### Study Garden
+A macOS study app built as a vibe coding project.  
+It includes a packaged app download for local testing.
+
+🔗 Project: https://github.com/ALena006123/study-garden
 
 ### China Monopoly Demo
 A China-themed Monopoly-style web game demo.  
-The board uses Chinese cities such as Beijing, Shanghai, Wuhan, Chengdu and more. Players roll dice, move around the board, buy cities, build houses, and pay tolls based on city value and ownership.
+Players roll dice, move around the board, buy cities, build houses, and pay tolls.
 
 🔗 Project: https://github.com/ALena006123/monopoly-demo
 
 ## Skills
-
 - JavaScript
 - React
 - Vite
