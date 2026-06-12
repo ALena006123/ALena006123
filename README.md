@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Alena 👋
 
-<!--
-**ALena006123/ALena006123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning frontend development and building interactive web demos or app.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### China Monopoly Demo
+A China-themed Monopoly-style web game demo.  
+The board uses Chinese cities such as Beijing, Shanghai, Wuhan, Chengdu and more. Players roll dice, move around the board, buy cities, build houses, and pay tolls based on city value and ownership.
+
+🔗 Project: https://github.com/ALena006123/monopoly-demo
+
+## Skills
+
+- JavaScript
+- React
+- Vite
+- HTML / CSS
+- Game UI
+- Interactive web development
