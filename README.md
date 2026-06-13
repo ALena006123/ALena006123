@@ -11,6 +11,8 @@
 🔗 项目地址：https://github.com/ALena006123/monopoly-demo
 
 🔗 部署好的网站：https://monopoly-demo.vercel.app/
+
+🔗 国内打开：https://monopoly-demo-d8gpjvahxd47588ca-1443062397.tcloudbaseapp.com
 ### Study Garden｜学习花园 App
 一个 macOS 学习类小应用，是我的 vibe coding 作品。  
 目前仓库里放的是可下载的 app 安装包，用于本地体验和展示。
