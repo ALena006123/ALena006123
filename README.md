@@ -1,6 +1,10 @@
 # Hi，我是 韩逸雪 Alena 👋
 
+在南加大本科学习中，学过python, java, R, mySQL, Neo4j.
+现在正在学习machine learning和一下大模型。
 我正在学习前端开发和交互式网页应用制作，也在尝试用 AI 辅助完成一些 demo、小工具和创意交互项目。
+I am an undergraduate student in University of Southern California, where I have studied basics skills in Python, Java, R, mySQL, Neo4j.
+I am learning machine learning and LLM.
 I am learning frontend development and building interactive web demos, small tools, and creative projects with AI-assisted coding.
 
 ## 项目作品｜Projects
