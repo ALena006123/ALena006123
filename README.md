@@ -1,4 +1,4 @@
-# Hi，我是 韩逸雪 Alena 👋
+# Hi，我是 韩逸雪 I am Alena 👋
 
 在南加大本科学习中，学过python, java, R, mySQL, Neo4j.
 现在正在学习machine learning和一下大模型。
