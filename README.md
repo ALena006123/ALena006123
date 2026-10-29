@@ -55,7 +55,9 @@ The repository currently includes a downloadable app package for local testing a
 🔗 项目地址｜Project: https://github.com/ALena006123/study-garden
 
 ## 技能方向｜Skills
-
+* MySQL
+* Neo4j
+* Python
 * JavaScript
 * React
 * Vite
